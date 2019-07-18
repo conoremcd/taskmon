@@ -1,1 +1,0 @@
-Minimalist task manager app built using next.js
